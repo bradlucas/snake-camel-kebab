@@ -13,6 +13,11 @@ Kebab
 
 - java -jar target/snake-camle-kebab -[sck] input-string
 
+## Versions
+
+### 1.0.0
+
+- Initial release
 
 ## License
 
