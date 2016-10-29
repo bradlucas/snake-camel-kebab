@@ -1,5 +1,5 @@
-(defproject snake-camel-kebab "1.0.0"
-  :description "FIXME: write description"
+(defproject com.bradlucas/snake-camel-kebab "1.0.0"
+  :description "snake-camel-kebab, a Clojure cmdline application"
   :url "http://example.com/FIXME"
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
