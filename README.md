@@ -1,5 +1,7 @@
 # snake-camel-kebab
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.bradlucas/snake-camel-kebab.svg)](https://clojars.org/com.bradlucas/snake-camel-kebab)
+
 snake-camel-kebab, a Clojure cmdline application
 
 Convert between various cases. https://en.wikipedia.org/wiki/Letter_case#Special_case_styles
